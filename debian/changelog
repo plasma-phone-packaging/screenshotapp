@@ -1,0 +1,5 @@
+screenshotapp (0.0+git20151002-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Initial packaging
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 02 Oct 2015 14:24:00 +0100
