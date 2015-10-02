@@ -7,7 +7,8 @@ Build-Depends: cmake (>= 2.8.12),
                extra-cmake-modules (>= 1.3.0~),
                libkf5package-dev,
                pkg-kde-tools (>= 0.15.15ubuntu1~),
-               qtbase5-dev (>= 5.4.0~)
+               qtbase5-dev (>= 5.4.0~),
+               qtdeclarative5-dev
 Standards-Version: 3.9.6
 Homepage: https://github.com/plasma-apps/screenshotapp
 Vcs-Browser: https://github.com/plasma-phone-packaging/screenshotapp
